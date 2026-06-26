@@ -4,7 +4,7 @@
 
 ## Passo a passo
 1. Junte o briefing do projeto: pode ser o documento de escopo, as anotações da reunião de kickoff ou a transcrição da call. Quanto mais completo, melhor a estrutura.
-2. Abra uma conversa nova no Claude (ou ChatGPT). Cole o prompt do arquivo `solucao.md`.
+2. Abra uma conversa nova no Claude (ou ChatGPT). Cole o prompt do arquivo `SKILL.md`.
 3. No fim do prompt, cole o seu briefing (e, se tiver, o prazo final e os nomes/papéis do time).
 4. Envie. Você recebe: a estrutura do projeto (Space/Pasta/Listas), a tabela de tarefas, os marcos, as subtarefas e os campos/labels sugeridos.
 5. Confira os campos marcados como [DEFINIR] — esses são os buracos do briefing (responsável ou prazo que ninguém fechou). Resolva antes de montar.
@@ -29,7 +29,7 @@
 ## Roteiro do vídeo (gravar — alvo 4-6 min, sem emoji)
 - 0:00 — A dor: "saiu da reunião com o projeto na cabeça e três páginas de anotação — e agora alguém tem que transformar isso em tarefas."
 - 0:25 — O que essa solução faz: pega o briefing e devolve o projeto estruturado (listas, tarefas, prioridades, cronograma), pronto pra montar no ClickUp.
-- 0:50 — Mostrar o briefing de exemplo (dado fictício) e colar o prompt do `solucao.md`.
+- 0:50 — Mostrar o briefing de exemplo (dado fictício) e colar o prompt do `SKILL.md`.
 - 1:40 — Colar o briefing no fim do prompt e enviar.
 - 2:20 — Ler a saída ao vivo: a estrutura, a tabela de tarefas no formato ClickUp, os marcos.
 - 3:30 — Transferir pro ClickUp: mostrar os dois caminhos (colar manual e importar a tabela como CSV).

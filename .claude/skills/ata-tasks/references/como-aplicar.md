@@ -14,7 +14,7 @@ Qualquer um serve: a solução só precisa do texto colado. Não importa se est�
 
 ## Passo a passo
 1. Obtenha a transcrição da reunião (ver acima) e copie o texto.
-2. Abra uma conversa nova no Claude (ou ChatGPT). Cole o prompt do arquivo `solucao.md`.
+2. Abra uma conversa nova no Claude (ou ChatGPT). Cole o prompt do arquivo `SKILL.md`.
 3. No fim do prompt, cole a sua transcrição no campo indicado. Se tiver, preencha também objetivo, participantes e data — melhora a atribuição de responsáveis.
 4. Envie. Você recebe: resumo executivo, decisões tomadas, a tabela de tarefas (Tarefa | Responsável | Prazo | Prioridade), pendências e o follow-up.
 5. Revise os campos marcados [DEFINIR] — são justamente o que ficou em aberto na reunião. Defina responsável/prazo com o time e atualize.
